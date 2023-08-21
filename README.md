@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShannenBalloAllo.
 - 👀 I’m interested in everything!
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Coding on Mimo.
 - 💞️ I hope I can grow in my coding skills to be able to collaborate in future projects.
 - 📫 How to reach me ... N/A
 
